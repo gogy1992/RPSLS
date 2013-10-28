@@ -8,5 +8,9 @@
     <string name="title_activity_join_game">JoinGame</string>
     <string name="title_activity_waiting">Waiting</string>
     <string name="title_activity_game">Game</string>
+    
+    <string name="main_playerNamePrompt">Enter your name:</string>
+    <string name="main_newGame">New Game</string>
+    <string name="main_joinGame">Join Game</string>
 
 </resources>
