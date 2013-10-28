@@ -12,5 +12,9 @@
     <string name="main_playerNamePrompt">Enter your name:</string>
     <string name="main_newGame">New Game</string>
     <string name="main_joinGame">Join Game</string>
+    
+    <string name="newGame_nameOfGame">Name of game:</string>
+    <string name="newGame_numberOfPlayers">Number of players:</string>
+    <string name="newGame_create">Create</string>
 
 </resources>
